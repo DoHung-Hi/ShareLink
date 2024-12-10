@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.technical.sharelink",
+               "sha256_cert_fingerprints": ["9A:9D:D3:72:1A:5F:83:CE:1D:08:AE:BC:D5:E4:FE:07:6F:14:E3:CB:E0:86:00:E9:D6:44:F1:41:EE:86:E8:64"] }
+}]
