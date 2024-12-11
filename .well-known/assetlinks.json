@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.samsung.android.app.notes",
+    "package_name": "com.jvb.jicaapp",
     "sha256_cert_fingerprints":
     ["7E:47:08:70:3F:EC:05:C7:1F:2A:3C:B7:29:A5:18:07:0B:04:ED:5F:D8:C7:89:DB:42:D4:D0:84:0F:80:5E:32"]
   }
